@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá! Eu sou o Luyde 👋
 
-<!--
-**LuydeAmorim/LuydeAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na Braz Cubas.
 
-Here are some ideas to get you started:
+Estou desenvolvendo minhas habilidades em programação e construindo projetos acadêmicos para colocar meus conhecimentos em prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Sobre mim
+
+- 🎓 Graduando em Ciência da Computação.
+- 🌱 Atualmente estudando programação em C e desenvolvimento web.
+- 🔐 Tenho interesse em cibersegurança.
+- 🤖 Também me interesso por inteligência artificial.
+- 🎯 Busco uma oportunidade de estágio para aprender, evoluir e contribuir com uma equipe de tecnologia.
+
+### 🛠️ Tecnologias em aprendizado
+
+- **Linguagens:** C, JavaScript
+- **Desenvolvimento web:** HTML5, CSS3
+- **Ferramentas:** Git, GitHub, Dev-C++
+
+### 📂 Projetos
+
+- **Quiz em C:** projeto acadêmico de lógica de programação, desenvolvido em etapas.
+- **Carteira de Investimentos:** aplicação em C para cadastro de ativos e cálculo de rentabilidade.
+- **Clínica Santa Clara:** projeto web com HTML, CSS e JavaScript.
+
+### 📫 Contato
+
+- GitHub: [@LuydeAmorim](https://github.com/LuydeAmorim)
+- Email: (luydeamorim2205@gmail.com).
+
+---
+
+*Em constante aprendizado, desenvolvendo projetos e construindo minha trajetória na tecnologia.*
