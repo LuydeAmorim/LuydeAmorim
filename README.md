@@ -12,11 +12,12 @@ Estou desenvolvendo minhas habilidades em programação e construindo projetos a
 - 🤖 Também me interesso por inteligência artificial.
 - 🎯 Busco uma oportunidade de estágio para aprender, evoluir e contribuir com uma equipe de tecnologia.
 
-### 🛠️ Tecnologias em aprendizado
+### 🛠️ Tecnologias e conhecimentos
 
-- **Linguagens:** C, JavaScript
-- **Desenvolvimento web:** HTML5, CSS3
-- **Ferramentas:** Git, GitHub, Dev-C++
+- **Programação:** C
+- **Desenvolvimento web:** HTML5, CSS3 e JavaScript
+- **Banco de dados:** modelagem de dados e SQL (DDL)
+- **Ferramentas:** GitHub e Dev-C++
 
 ### 📂 Projetos
 
