@@ -28,7 +28,7 @@ Estou desenvolvendo minhas habilidades em programação e construindo projetos a
 ### 📫 Contato
 
 - GitHub: [@LuydeAmorim](https://github.com/LuydeAmorim)
-- Email: (luydeamorim2205@gmail.com).
+- Email: luydeamorim2205@gmail.com
 
 ---
 
